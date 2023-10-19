@@ -1,0 +1,19 @@
+﻿@page
+@model RazorPizzaeria.Pages.checkout.checkoutModel
+@{
+    var imagepath = "~/images/pizza images/" +(@Model.imagetitle + ".jpg");
+}
+
+<h1>Your Order!</h1>
+<div class="align-content-center" >
+    <div  class="mb-5 mx-auto col-3">
+        <img src=@imagepath class="w-100" asp-append-version="true" />
+        <p>your order for @Model.pizzaname pizaa is ready !</p>
+        <p>Your total price for your order: @Model.pizzaprice $ </p>
+        <br />
+        <a class="btn mx-auto mt-1 alert-primary" asp-page="thankyou">Confirm Order</a>
+    </div>
+</div>
+
+
+ 

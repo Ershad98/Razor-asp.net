@@ -1,0 +1,26 @@
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\bin\Debug\net6.0\Pizza web.staticwebassets.runtime.json
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\bin\Debug\net6.0\Pizza web.exe
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\bin\Debug\net6.0\Pizza web.deps.json
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\bin\Debug\net6.0\Pizza web.runtimeconfig.json
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\bin\Debug\net6.0\Pizza web.dll
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\bin\Debug\net6.0\Pizza web.pdb
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\Pizza web.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\Pizza web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\Pizza web.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\Pizza web.AssemblyInfo.cs
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\Pizza web.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\Pizza web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\Pizza web.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\Pizza web.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\scopedcss\bundle\Pizza web.styles.css
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\scopedcss\projectbundle\Pizza web.bundle.scp.css
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\Pizza web.dll
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\refint\Pizza web.dll
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\Pizza web.pdb
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\Pizza web.genruntimeconfig.cache
+C:\Users\HP\source\repos\RazorPizzaeria\RazorPizzaeria\obj\Debug\net6.0\ref\Pizza web.dll

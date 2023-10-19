@@ -1,0 +1,54 @@
+﻿@page
+@model RazorPizzaeria.Pages.PizzaModel
+@{
+}
+ <div class="text-center">
+    <div class="mainText">
+    <h1 class="display-4  text-black text-capitalize">
+        our great selection of Pizza !
+    </h1>
+    <h4> choose one , or try our pizza Builder! then order and done !</h4>
+    <h4> no need to give any of your details !</h4>
+    <h4>we already know everything!</h4>
+   <p class="smallText"><i>only one pizza per order.</i></p>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class ="col-12 mb-5 mt-5">
+                <div class="w-100 row makeYourOwnDiv">
+                    <div class="col-4" >
+                        <img src="~/images/pizza images/image2.jpg"class="w-100 mt-2 mb-2 " />
+                    </div>
+                    <div class ="col-8 alig-items-center">
+                        <div class ="aligh-middle makeYourOwnText">
+                            <h3 style="text-align:left;">create your own pizza</h3>
+                       <p style="text-align:left;"> Make your own Pizza with our pizzamaker</p>
+                        <a class=" btn btn-primary" style="float:left" asp-area="" asp-page="form/customPizza">Try now </a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            @foreach(var pizza in Model.fakepizzadb)
+            {
+                var imagepath = "~/images/pizza images/" + pizza.imagetitle + ".jpg";
+                <div  class="col-4 mb-5">
+                <img src="@imagepath" asp-append-version="true" class="w-100" />
+                <a class="btn btn-primary mt-1" asp-area=""
+                asp-page="checkout/checkout"
+                asp-route-pizzaname="@pizza.pizzaname"
+                asp-route-pizzaprice="@pizza.finalprice"
+                asp-route-imagetitle="@pizza.imagetitle"
+                > Get this pizza </a>
+
+            </div>
+           }
+        </div>
+
+    </div>
+    </div>
+
+    <a class="nav-link text-dark" asp-area="" asp-page="checkout/checkout">checkout</a>
+     <a class="nav-link text-dark" asp-area="" asp-page="form/customPizza">Pizaa</a>                   
