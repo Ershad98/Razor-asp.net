@@ -1,0 +1,27 @@
+﻿@page
+@model pizaaweb.Pages.ordersModel
+@{
+}
+<h3>orders</h3>
+<br />
+<table class ="table">
+    <thead>
+        <tr>
+        <th>id</th>
+        <th>Pizza name</th>
+        <th>Pizza price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model.pizzaorders)
+        { 
+            <tr>
+                <td>@order.id</td>
+                <td>@order.pizaaname</td>
+                 <td>@order.pizzaprice $</td>
+             </tr>
+        }
+        
+    </tbody>
+
+</table>
